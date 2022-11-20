@@ -1,0 +1,8 @@
+invoice_owner_api_url: 'http://127.0.0.1:3420/v3/owner'
+invoice_api_user: 'grin'
+invoice_owner_api_password: ''
+invoice_wallet_password: ''
+pay_owner_api_url: 'http://127.0.0.1:3421/v3/owner'
+pay_api_user: 'grin'
+pay_owner_api_password: ''
+pay_wallet_password: ''
